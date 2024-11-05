@@ -5,7 +5,7 @@
 
 #	I am trying to make or change it to support riscv.
 
-#	Codes and other submodel and more details , see the dev branch
+#	Code and submodel and more details , go to the dev branch
 
 
 #	goal :   
